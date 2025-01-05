@@ -1,5 +1,4 @@
 ﻿
-
 // Alias pour représentation d'un repas (index de nourriture, position X, position Y) ainsi que
 // de la souris (état, position X, position Y).
 using System.Reflection.Metadata.Ecma335;
