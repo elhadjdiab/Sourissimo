@@ -1,4 +1,9 @@
-﻿
+﻿/***************************************************************
+ Etudiant 1: Nom:         Abdoulaye Diallo
+             Matricule:   2732780
+ Etudiant 2: Nom :        Orson Seguin
+             Matricule:   2736043
+ ***************************************************************/
 
 // Alias pour représentation d'un repas (index de nourriture, position X, position Y) ainsi que
 // de la souris (état, position X, position Y).

@@ -1,0 +1,25 @@
+# Ignorer les dossiers bin et obj (fichiers compilés)
+bin/
+obj/
+
+# Ignorer les dossiers specifiques à Visual Studio
+.vs/
+
+# Ignorer les fichiers de débogage
+*.log
+*.pdb
+
+# Ignorer les fichiers de sauvegarde ou temporaires
+*.tmp
+*.bak
+*.swp
+
+# Ignorer les fichiers spécifiques à l'environnement local
+*.user
+*.suo
+
+# Ignorer les dossiers de publication
+publish/
+
+
+
